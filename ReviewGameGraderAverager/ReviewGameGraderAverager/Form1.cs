@@ -15,9 +15,7 @@ namespace ReviewGameGraderAverager
 {
     public partial class DigitalReviewGameGradeAverager : Form
     {
-        private System.Windows.Forms.Label lblAverage;
-        private System.Windows.Forms.Label lblHighest;
-        private System.Windows.Forms.Label lblLowest;
+
 
 
         public DigitalReviewGameGradeAverager()
@@ -25,11 +23,6 @@ namespace ReviewGameGraderAverager
             InitializeComponent();
             DragAndDropFilesBox.DragEnter += DragAndDropFilesBox_DragEnter;
             DragAndDropFilesBox.DragDrop += DragAndDropFilesBox_DragDrop;
-            this.lblAverage = new System.Windows.Forms.Label();
-            this.lblHighest = new System.Windows.Forms.Label();
-            this.lblLowest = new System.Windows.Forms.Label();
-
-
         }
 
 
@@ -200,11 +193,11 @@ namespace ReviewGameGraderAverager
 
             var allScoreData = new List<ScoreData>();
 
-            // Define possible column names for Player and Score for both Blooket and Gimkit
+
             var playerColumnNames = new List<string> { "Player Name", "UserName", "Name" }; // Add other possibilities
             var correctColumnNames = new List<string> { "Corrects", "Questions Answered Correctly", "Name" }; // Add other possibilities
             var incorrectColumnNames = new List<string> { "Incorrects", "Questions Answered Incorrectly", "Score" }; // Add other possibilities
-                                                                                           // **Get the minimum questions threshold from the input field**
+                                                                                 
             int minQuestionsThreshold = (int)numericUpDown1.Value;
 
             // Loop through each file in the ListView and read data
@@ -237,8 +230,8 @@ namespace ReviewGameGraderAverager
             // Create columns in DataGridView if not already created
             if (dataGridView1.Columns.Count == 0)
             {
-                dataGridView1.Columns.Add("PlayerName", "Player Name");
-                dataGridView1.Columns.Add("Average", "Percentage");
+                dataGridView1.Columns.Add("Player Name", "Player Name");
+                dataGridView1.Columns.Add("Average", "Average");
                 dataGridView1.Columns.Add("Lowest", "Lowest");
                 dataGridView1.Columns.Add("Highest", "Highest");
             }
