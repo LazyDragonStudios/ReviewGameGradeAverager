@@ -1,0 +1,14 @@
+C:\Users\arius\source\repos\ReviewGameGraderAverager\ReviewGameGraderAverager\bin\Debug\ReviewGameGraderAverager.exe.config
+C:\Users\arius\source\repos\ReviewGameGraderAverager\ReviewGameGraderAverager\bin\Debug\ReviewGameGraderAverager.exe
+C:\Users\arius\source\repos\ReviewGameGraderAverager\ReviewGameGraderAverager\bin\Debug\ReviewGameGraderAverager.pdb
+C:\Users\arius\source\repos\ReviewGameGraderAverager\ReviewGameGraderAverager\obj\Debug\ReviewGameGraderAverager.csproj.AssemblyReference.cache
+C:\Users\arius\source\repos\ReviewGameGraderAverager\ReviewGameGraderAverager\obj\Debug\ReviewGameGraderAverager.DigitalReviewGameGradeAverager.resources
+C:\Users\arius\source\repos\ReviewGameGraderAverager\ReviewGameGraderAverager\obj\Debug\ReviewGameGraderAverager.Properties.Resources.resources
+C:\Users\arius\source\repos\ReviewGameGraderAverager\ReviewGameGraderAverager\obj\Debug\ReviewGameGraderAverager.csproj.GenerateResource.cache
+C:\Users\arius\source\repos\ReviewGameGraderAverager\ReviewGameGraderAverager\obj\Debug\ReviewGameGraderAverager.csproj.CoreCompileInputs.cache
+C:\Users\arius\source\repos\ReviewGameGraderAverager\ReviewGameGraderAverager\obj\Debug\ReviewGameGraderAverager.exe
+C:\Users\arius\source\repos\ReviewGameGraderAverager\ReviewGameGraderAverager\obj\Debug\ReviewGameGraderAverager.pdb
+C:\Users\arius\source\repos\ReviewGameGraderAverager\ReviewGameGraderAverager\bin\Debug\ReviewGameGraderAverager.exe.manifest
+C:\Users\arius\source\repos\ReviewGameGraderAverager\ReviewGameGraderAverager\bin\Debug\ReviewGameGraderAverager.application
+C:\Users\arius\source\repos\ReviewGameGraderAverager\ReviewGameGraderAverager\obj\Debug\ReviewGameGraderAverager.exe.manifest
+C:\Users\arius\source\repos\ReviewGameGraderAverager\ReviewGameGraderAverager\obj\Debug\ReviewGameGraderAverager.application
